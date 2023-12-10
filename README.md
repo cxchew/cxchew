@@ -1,6 +1,6 @@
 # Student
-Course   : Data Engineering
-Year     : 1
+- Course   : Data Engineering
+- Year     : 1
 
 #### Education: Undergraduate (UTM)
 #### Skill    : C++, Java
