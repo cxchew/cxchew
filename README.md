@@ -25,5 +25,5 @@
 - [Discrete Structure]
 - [Digital Logic]
 - [Programming Technique 1]
-- [Technology and Information System](https://github.com/cxchew/portfolio/blob/main/Technology%20and%20Information%20System)
+- [Technology and Information System]
 - [Integrity and Anti-Corruption Course]
