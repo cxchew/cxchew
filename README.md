@@ -25,5 +25,5 @@
 - [Discrete Structure]
 - [Digital Logic]
 - [Programming Technique 1]
-- [Technology and Information System]
+- [Technology and Information System](https://github.com/cxchew/TIS)
 - [Integrity and Anti-Corruption Course]
