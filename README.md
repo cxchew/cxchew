@@ -14,6 +14,6 @@
 - <img src="/images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="/images/Java-Logo.png" height=80 width=80>
 
 ### *_Education_*
-- Bachelor of Computer Science(Data Engineering), Year 1 Student | [The University of Technology Malaysia](https://www.utm.my/) (1st of October 2023)
+- Bachelor of Computer Science(Data Engineering), Year 1 Student | [The University of Technology Malaysia](https://www.utm.my/) (1st October 2023)
 - Matriculation Student | [Kelantan Matriculation College](http://www.kmkt.matrik.edu.my/) (25th July 2022)
 - Secondary School | [SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) (January 2017)
