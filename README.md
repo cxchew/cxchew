@@ -6,6 +6,7 @@
 - Birthday: 03/08/2004
 - Personalities: Curious and eager to learn new stuffs, patience and reliable
 - <img src="/images/depositphotos_190573646-stock-illustration-vector-illustration-curious-kid-emotion.jpg" height=100 width=100>
+  <img src="/images/360_F_177109288_l0zKEkM0ifKINUanzLgtqvRGcJFVCs3o.jpg" height=100 width=100>
 - Hobby: Jogging, playing badminton
 - Ambition: Data Scientist
 - Skill: coding with Java and C++
