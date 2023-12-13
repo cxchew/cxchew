@@ -11,5 +11,4 @@
 - Hobby: Jogging, playing badminton
 - Ambition: Data Scientist
 - Skill: coding with Java and C++
-- <img src="/images/ISO_C++_Logo.svg.png" height=80 width=80>
-<img src="/images/download.jpeg" height=80 width=80>
+- <img src="/images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="/images/Java-Logo.png" height=80 width=80>
