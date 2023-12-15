@@ -14,9 +14,9 @@
   <img src="/images/download.jpeg" height=80 width=80>
 
 ### _Education_
-- Bachelor of Computer Science(Data Engineering), Year 1 Student | [The University of Technology Malaysia](https://www.utm.my/) 
-- Matriculation Student | [Kelantan Matriculation College](http://www.kmkt.matrik.edu.my/) 
-- Secondary School | [SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) 
+- Bachelor of Computer Science(Data Engineering), Year 1 Student  ([The University of Technology Malaysia](https://www.utm.my/) )
+- Matriculation Student  ([Kelantan Matriculation College](http://www.kmkt.matrik.edu.my/) )
+- Secondary School  ([SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) )
 
 ### _Work Experience_
 - None
