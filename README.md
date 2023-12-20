@@ -7,11 +7,11 @@
 - Hobby: Jogging, playing badminton
 - Ambition: Data Scientist
 - Skill: coding with Java and C++
-- <img src="/images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="/images/Java-Logo.png" height=80 width=80>
+- <img src="./images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80> 
 - Personalities: Curious, patience and reliable
-- <img src="/images/depositphotos_190573646-stock-illustration-vector-illustration-curious-kid-emotion.jpg" height=80 width=80>
-  <img src="/images/360_F_177109288_l0zKEkM0ifKINUanzLgtqvRGcJFVCs3o.jpg" height=80 width=80>
-  <img src="/images/download.jpeg" height=80 width=80>
+- <img src="./images/depositphotos_190573646-stock-illustration-vector-illustration-curious-kid-emotion.jpg" height=80 width=80>
+  <img src="./images/360_F_177109288_l0zKEkM0ifKINUanzLgtqvRGcJFVCs3o.jpg" height=80 width=80>
+  <img src="./images/download.jpeg" height=80 width=80>
 
 ### _Education_
 - Bachelor of Computer Science(Data Engineering), Year 1 Student  ([The University of Technology Malaysia](https://www.utm.my/) )
@@ -19,7 +19,7 @@
 - Secondary School  ([SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) )
 
 ### _Work Experience_
-- None
+- 
 
 ### _Projects_
 - [Discrete Structure]
