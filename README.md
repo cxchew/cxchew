@@ -7,9 +7,11 @@
 - Hobby: **Jogging, playing badminton**
 - Ambition: **Data Scientist**
 - Skill: **Coding with Java and C++**
-- <img src="./images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80> 
+<br/> <img src="./images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80> 
+
 - Personalities: **Curious, patience and reliable**
-- <img src="./images/depositphotos_190573646-stock-illustration-vector-illustration-curious-kid-emotion.jpg" height=80 width=80>
+  <br/>
+  <img src="./images/depositphotos_190573646-stock-illustration-vector-illustration-curious-kid-emotion.jpg" height=80 width=80>
   <img src="./images/360_F_177109288_l0zKEkM0ifKINUanzLgtqvRGcJFVCs3o.jpg" height=80 width=80>
   <img src="./images/download.jpeg" height=80 width=80>
 
