@@ -22,8 +22,8 @@
 - 
 
 ### _Projects_
-- [Discrete Structure]
-- [Digital Logic]
+- [Discrete Structure](https://github.com/cxchew/Discrete-Structure)
+- [Digital Logic](https://github.com/cxchew/Digital-Logic)
 - [Programming Technique 1]
 - [Technology and Information System](https://github.com/cxchew/TIS)
 - [Integrity and Anti-Corruption Course]
