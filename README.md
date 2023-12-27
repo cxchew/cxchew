@@ -1,7 +1,7 @@
 <div align ="center">
     
   <!-- Typing Effect -->
-<a href="https://github.com/cxchew"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1010&color=3A2FF7&background=FF9A2C00&center=true&random=false&width=435&lines=Hi!+I'm+Chew+Chiu+Xian+%F0%9F%91%8B;I'm+a+Data+Engineering+Student;in+Universiti+Teknologi+Malaysia" alt="Typing SVG" /></a>
+<a href="https://github.com/cxchew"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1010&color=3A2FF7&background=FF9A2C00&center=true&random=false&width=500&lines=Hi!+%F0%9F%91%8B+My+name+is+Chew+Chiu+Xian.;I'm+a+Data+Engineering+Student;in+Universiti+Teknologi+Malaysia." alt="Typing SVG" /></a>
 </div>
 
 
