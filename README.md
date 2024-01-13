@@ -27,14 +27,17 @@
 - **Secondary School**  ([SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) )
 
 ### _Work Experience_
-- 
+>Trader (Secretariat Society in Kelantan Matriculation College)
+  >- Improve accounting skills.
+  >- Learn how to communicate with customer
+  >- Practice teamworking with partner  
 
-### _Projects_
+
+### _Projects and Course Information_
 - [Discrete Structure](https://github.com/cxchew/Discrete-Structure)
 - [Digital Logic](https://github.com/cxchew/Digital-Logic)
 - [Programming Technique 1](https://github.com/cxchew/Programming-Technique)
 - [Technology and Information System](https://github.com/cxchew/TIS)
-- [Integrity and Anti-Corruption Course]
 
 <br/>
 <br/>
@@ -47,6 +50,8 @@
      alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cxchew04?igsh=bm1nYTg2NGFra2hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cxchew04" height="30" width="40" /></a>
 </p>
+</br>
+
 
 **Website of my e-portfolio:**
 - [E-portfolio](https://cxchew.github.io/)
