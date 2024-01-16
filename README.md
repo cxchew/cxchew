@@ -53,5 +53,9 @@
 </br>
 
 
-**Website of my e-portfolio:**
+**Website of e-portfolio:**
 - [E-portfolio](https://cxchew.github.io/)
+
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cxchew&margin-w=15" alt="cxchew" /></a> </p>
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=cxchew&show_icons=true&locale=en" alt="cxchew" /><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=cxchew&" alt="cxchew" /></p>
