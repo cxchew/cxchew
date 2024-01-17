@@ -38,6 +38,7 @@
 - [Digital Logic](https://github.com/cxchew/Digital-Logic)
 - [Programming Technique 1](https://github.com/cxchew/Programming-Technique)
 - [Technology and Information System](https://github.com/cxchew/TIS)
+- [Integrity and Anti-Corruption](https://github.com/cxchew/ULRS1032-10)
 
 <br/>
 <br/>
