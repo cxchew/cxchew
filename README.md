@@ -13,7 +13,7 @@
 - Hobby: **Jogging, playing badminton**
 - Ambition: **Data Scientist**
 - Skill: **Coding with Java, C++, Python**
-<br/> <img src="./images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80>
+<br/> <img src="./images/ISO_C++_Logo.svg.png" height=80 width=80> <img src="./images/Java-Logo.png" height=80 width=80> <img src="./images/Python-logo-notext.png" height=80 width=80>
 
 - Personalities: **Curious, patience and reliable**
   <br/>
