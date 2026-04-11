@@ -21,24 +21,42 @@
   <img src="./images/360_F_177109288_l0zKEkM0ifKINUanzLgtqvRGcJFVCs3o.jpg" height=80 width=80>
   <img src="./images/download.jpeg" height=80 width=80>
 
-### _Education_
-- **Bachelor of Computer Science(Data Engineering), Year 1 Student**  ([The University of Technology Malaysia](https://www.utm.my/) )
+- Soft Skills: **Team Collaboration, Problem-Solving, Time Management, Analytical Thinking, Communication, Team Leadership**
+
+### 🎓 Education
+- **Bachelor of Computer Science(Data Engineering), Year 3 Student**  ([The University of Technology Malaysia](https://www.utm.my/) )
 - **Matriculation Student**  ([Kelantan Matriculation College](http://www.kmkt.matrik.edu.my/) )
 - **Secondary School**  ([SMK Sultan Yahya Petra 1](https://www.facebook.com/SmkSultanYahyaPetra1yps/?locale=ms_MY) )
 
-### _Work Experience_
+### 💼 Work Experience
 >Trader (Secretariat Society in Kelantan Matriculation College)
   >- Improve accounting skills.
   >- Learn how to communicate with customer
   >- Practice teamworking with partner  
 
 
-### _Projects and Course Information_
-- [Discrete Structure](https://github.com/cxchew/Discrete-Structure)
-- [Digital Logic](https://github.com/cxchew/Digital-Logic)
-- [Programming Technique 1](https://github.com/cxchew/Programming-Technique)
-- [Technology and Information System](https://github.com/cxchew/TIS)
-- [Integrity and Anti-Corruption](https://github.com/cxchew/ULRS1032-10)
+### 🏆 Achievements
+* **4th Place in Cisco AI Hackathon 2024:** Awarded for presenting a winning idea that successfully addressed educational challenges by improving student motivation and learning interest. 
+* **MCMC Datathon 2024:** Earned recognition in the datathon for creating an agricultural decision-support system that uses weather prediction to help farmers optimize planting and crop growth. 
+* **Data Science Digital Race (DSDR):** Recognized for completing a data-driven competition that involved applying data analysis, problem-solving, and data structures & algorithms to solve real-world problems. 
+
+### 💻 Featured Projects
+
+### Kada Cooperative System 
+- **Description:** Developed a cloud-based web application to solve problems about manual workflow processes on savings, loan applications, and document management. Designed and implemented key modules such as member registration, loan processing, and account management. 
+- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+- **Github:** [KADA-System](https://github.com/cxchew/KADA-system)
+
+### BioFlora 
+- **Description:** Developed a blog platform for an concept idea for AI-driven web application to identify plant species or provide botanical data. 
+- **Tech Stack:** Astro, HTML/CSS, MDX
+- **Blog:** [BioFlora](https://bioflora.vercel.app/)
+
+### Agriculture Crop Yield Prediction 
+- **Description:** Develop a machine learning model using real-world agricultural data to predict the condition of the environment and growth of crops.
+- **Tech Stack:** Canvas
+
+
 
 <br/>
 <br/>
